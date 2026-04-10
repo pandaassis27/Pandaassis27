@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hey, I'm Panda Assis
 
-<!--
-**pandaassis27/Pandaassis27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast | Ethical Hacker
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Full Stack Developer and Cybersecurity enthusiast passionate about building and securing modern web applications.
+I focus on developing scalable systems while identifying and fixing security vulnerabilities using both offensive and defensive techniques.
+
+---
+
+## 🧠 Skills
+
+🌐 Full Stack Development
+🔐 Web Application Security
+🛡️ Network Security
+🧪 Vulnerability Assessment & Bug Hunting
+
+---
+
+## 🛠️ Tech & Tools
+
+HTML • CSS • JavaScript • Node.js
+React • Express
+Kali Linux
+Burp Suite • Nmap • Wireshark • Metasploit
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Web Security
+* Bug Bounty Hunting
+* API Security
+* Secure Backend Development
+
+---
+
+## 📂 Projects
+
+🔐 Secure Login System (In Progress)
+🛡️ Web Security Practice Lab
+📘 Cybersecurity Notes & Writeups
+
+---
+
+## ⚡ Motto
+
+**Code. Break. Secure. Repeat.** 💀
+
+---
+## 🧠 Skills  
+
+Cybersecurity • Ethical Hacking • VAPT • SIEM • Threat Intelligence  
+Web & API Security • OWASP Top 10 • Network Security  
+Nmap • Wireshark • Burp Suite • Metasploit  
+Python • Bash • Full Stack Development  
